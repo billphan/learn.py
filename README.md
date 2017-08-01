@@ -16,7 +16,6 @@ A self-directed JavaScript learning curriculum. (With a sprinkle of other front-
 - Node.js (Back-End/Server-Side Framework)
 
 <!-- ## Tools -->
-
 <!-- ## Techniques -->
 
 ## Resources
