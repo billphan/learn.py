@@ -1,5 +1,5 @@
-# learnJS - A self-directed JavaScript learning curriculum. 
-(With a sprinkle of other front-end stuff as well.)
+# learnJS 
+A self-directed JavaScript learning curriculum. (With a sprinkle of other front-end stuff as well.)
 
 ## Learning Objectives
 - Learn JavaScript Fundamentals & Popular Frameworks.
@@ -20,6 +20,14 @@
 <!-- ## Techniques -->
 
 ## Resources
+
+#### Books
+- “JavaScript for Kids: A Playful Introduction to Programming” by Nick Morgan
+- "JavaScript & jQuery" by Jon Duckett
+- "Eloquent JavaScript" by Marjin Haverbeke
+- "You Dont Know JS" by Kyle Simpson
+- "JavaScript: The Definitive Guide" by David Flanagan
+
 #### JavaScript
 - [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript.info](https://javascript.info)
