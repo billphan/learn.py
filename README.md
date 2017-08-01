@@ -1,57 +1,39 @@
-# learnJS 
-A self-directed JavaScript learning curriculum. (With a sprinkle of other front-end stuff as well.)
+# learnPy 
+A self-directed Python learning curriculum.
 
 ## Learning Objectives
-- Learn JavaScript Fundamentals & Popular Frameworks.
-- Learn Sass/CSS extension
+- Learn core CS concepts: OOP, MVC, algorithms, data structures, loops, etc.
+- Learn Python fundamentals.
+- Learn Python web frameworks using Django and Flask.
+- Brush up on database/server-side programming with SQL/MySQL
+- Experiment with scientific/research applications with Python using TensorFlow, SciPy, and NumPy.
+- Raspberry Pi Applications?
 
 ## Projects & Deliverables
-- [ ] Complex JavaScript Portfolio Project
+- [ ] Complex Python Portfolio Project
 
 ## Technologies
-- JavaScript
-- ReactJS (Front-End Framework)
-- Angular (Front-End MVW Framework)
-- Ember (Front-End MVC Framework)
-- Node.js (Back-End/Server-Side Framework)
+- Python 3
+- Django (Web App Framework)
+- Flask (Web App Framework)
+- TensorFlow (Machine Learning Library)
 
-<!-- ## Tools -->
-<!-- ## Techniques -->
+## Tools
+- PyCharm IDE
+- Terminal/Command Line Interface
+- Git/GitHub Version Control
+- Continuous integration (CI) and deployment with Heroku
 
 ## Resources
-
 #### Books
-- “JavaScript for Kids: A Playful Introduction to Programming” by Nick Morgan
-- "JavaScript & jQuery" by Jon Duckett
-- "Eloquent JavaScript" by Marjin Haverbeke
-- "You Dont Know JS" by Kyle Simpson
-- "JavaScript: The Definitive Guide" by David Flanagan
+- “Python Crash Course" by Eric Matthes
+- "Automate the Boring Stuff" by Al Sweigart
+- "Hello Web App" by Tracy Osborn
+- "Hello Web App: Intermediate Concepts" by Tracy Osborn
+- "Self-Taught Programmer" by Cory Althoff
 
-#### JavaScript
-- [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScript.info](https://javascript.info)
-- [w3schools: JavaScript](https://www.w3schools.com/jsref)
-- [Watch and Code: JavaScript](https://watchandcode.com/p/practical-javascript)
-- [Epicodus: Learning to Program](https://www.learnhowtoprogram.com/intro-to-programming/getting-started-at-epicodus-64627971-b5be-49e7-a8d7-7ca55d0c9e88/learn-how-to-program)
-
-#### HTML/CSS
-- [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [HTML Reference](http://htmlreference.io/)
-- [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [CSS Reference](http://cssreference.io/)
-- [Sass Reference](http://sass-lang.com/)
-
-#### Tools
-- [CodePen](https://codepen.io)
-- [JSFiddle](https://jsfiddle.net/)
-
-#### Miscellaneous
-- [MDN: SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
+#### Python
+- [Python 3.6.2 Documentation](https://docs.python.org/3/)
 
 #### Exercises & Problem Solving
-- [Codewars](https://www.codewars.com/)
-- [Exercism](http://exercism.io/languages/javascript/exercises)
-- [LC101](http://education.launchcode.org/skills-front-end/course-outline/)
-- [Learnhowtoprogram.com](https://www.learnhowtoprogram.com/intro-to-programming)
-- [A Smarter Way to Learn](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
-- [HackerRank JavaScript](https://www.hackerrank.com/contests/7days-javascript/challenges/helloworld-1)
+- [HackerRank](https://www.hackerrank.com/domains/python/py-introduction)
